@@ -15,7 +15,7 @@ include("connection.php");
     {
       ?>
       <script> 
-      alert("Successfull");
+      alert("Successfully registered");
       window.location.href="admin.php";
       
     </script>
