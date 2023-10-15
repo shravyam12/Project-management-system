@@ -7,7 +7,7 @@
   <meta name="author" content="">
 <title>DBMS PROJECT MANAGEMENT SYSTEM</title>
 
-    <!-- Bootstrap core CSS -->
+    
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
