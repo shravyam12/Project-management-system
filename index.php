@@ -49,7 +49,7 @@
               </div>
               <button name="wel" class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">LOGIN</button>
               <br>
-              <a href="reg.php" style="text-align: right;color:#006400 ; ">Register Now</a>
+              <a href="reg.php" style="text-align: right;color:#006400 ; ">Register </a>
             </form>
           </div>
         </div>
