@@ -28,7 +28,7 @@
              </div>
         </div>
     </nav>
-<!-- description Section -->
+
     
 <h1 class="card-title text-center">Welcome!</h1>
 <body>
